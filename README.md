@@ -38,7 +38,7 @@
 
 
 ## 💻  Projects:
-<h3><a href="https://github.com/lai-kevin/OrcaNet-Tuna">OrcaNet:</a></h3><span> Decentralized file sharing </span>
+<a href="https://github.com/lai-kevin/OrcaNet-Tuna">OrcaNet:</a><span> Decentralized file sharing </span>
 <h3>Discussion Forum:</h3><span> Decentralized file sharing  </span>
 <h3>Titanic:</h3><span> Decentralized file sharing  </span>
 <h3>Airbnb:</h3><span> Decentralized file sharing  </span>
