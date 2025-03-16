@@ -1,5 +1,5 @@
-## :triangular_ruler: Technical Skills:
-### Languages
+## 🧠 Technical Skills:
+### 🅰️ Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -13,7 +13,7 @@
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" width="40" height="40"/>
 </div>
 
-### Tools 
+### 🛠️ Tools 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
 </div>
 
 
-:computer: ##  Projects:
+## 💻 Projects:
 <h3>OrcaNet:</h3><span> Decentralized file sharing </span>
 <h3>Discussion Forum:</h3><span> Decentralized file sharing  </span>
 <h3>Titanic:</h3><span> Decentralized file sharing  </span>
