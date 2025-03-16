@@ -1,4 +1,4 @@
-## Technical Skills:
+:triangular_ruler: ## Technical Skills:
 ### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -26,7 +26,6 @@
    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
@@ -38,8 +37,10 @@
 </div>
 
 
-## Projects:
+:computer: ##  Projects:
 <h3>OrcaNet:</h3><span> Decentralized file sharing </span>
-<h3>OrcaNet:</h3><span> Decentralized file sharing  </span>
-<h3>OrcaNet:</h3><span> Decentralized file sharing  </span>
-<h3>OrcaNet:</h3><span> Decentralized file sharing  </span>
+<h3>Discussion Forum:</h3><span> Decentralized file sharing  </span>
+<h3>Titanic:</h3><span> Decentralized file sharing  </span>
+<h3>Airbnb:</h3><span> Decentralized file sharing  </span>
+<h3>Dynamic Allocator:</h3><span> Decentralized file sharing  </span>
+<h3>Lirr Stimulator:</h3><span> Decentralized file sharing  </span>
