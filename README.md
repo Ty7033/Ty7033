@@ -38,9 +38,9 @@
 
 
 ## 💻  Projects:
-<a href="https://github.com/lai-kevin/OrcaNet-Tuna" width= 30 height = 30>OrcaNet:</a><span> Decentralized file sharing </span>
-<a href="https://github.com/Ty7033/Discussion-Forum" width= 30 height = 30>Discussion Forum:</a><span> Decentralized file sharing </span>
-<a href="https://github.com/Ty7033/Titanic-Data-Analysis" width= 30 height = 30>Titanic:</a><span> Decentralized file sharing </span>
-<a href="https://github.com/Ty7033/Airbnb-Analysis" width= 30 height = 30>Airbnb:</a><span> Decentralized file sharing </span>
-<a href="https://github.com/Ty7033/Dynamic-Allocator" width= 30 height = 30>Dynamic Allocator:</a><span> Decentralized file sharing </span>
-<a href="https://github.com/Ty7033/LIRR-Simulator" width= 30 height = 30>LIRR Stimulator:</a><span> Decentralized file sharing </span>
+<a href="https://github.com/lai-kevin/OrcaNet-Tuna" width= 30 height = 30>OrcaNet:</a><span> Decentralized file sharing </span><br></br>
+<a href="https://github.com/Ty7033/Discussion-Forum" width= 30 height = 30>Discussion Forum:</a><span> Decentralized file sharing </span><br></br>
+<a href="https://github.com/Ty7033/Titanic-Data-Analysis" width= 30 height = 30>Titanic:</a><span> Decentralized file sharing </span><br></br>
+<a href="https://github.com/Ty7033/Airbnb-Analysis" width= 30 height = 30>Airbnb:</a><span> Decentralized file sharing </span><br></br>
+<a href="https://github.com/Ty7033/Dynamic-Allocator" width= 30 height = 30>Dynamic Allocator:</a><span> Decentralized file sharing </span><br></br>
+<a href="https://github.com/Ty7033/LIRR-Simulator" width= 30 height = 30>LIRR Stimulator:</a><span> Decentralized file sharing </span><br></br>
